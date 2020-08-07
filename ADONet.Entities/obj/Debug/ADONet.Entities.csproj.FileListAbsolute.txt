@@ -1,0 +1,6 @@
+D:\Farnoosh\T8\Net\LAB2\ADONet.Entities\bin\Debug\ADONet.Entities.dll
+D:\Farnoosh\T8\Net\LAB2\ADONet.Entities\bin\Debug\ADONet.Entities.pdb
+D:\Farnoosh\T8\Net\LAB2\ADONet.Entities\obj\Debug\ADONet.Entities.csproj.CoreCompileInputs.cache
+D:\Farnoosh\T8\Net\LAB2\ADONet.Entities\obj\Debug\ADONet.Entities.dll
+D:\Farnoosh\T8\Net\LAB2\ADONet.Entities\obj\Debug\ADONet.Entities.pdb
+D:\Farnoosh\T8\Net\LAB2\ADONet.Entities\obj\Debug\ADONet.Entities.csprojResolveAssemblyReference.cache

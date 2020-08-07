@@ -1,0 +1,15 @@
+D:\Farnoosh\T8\Net\LAB2\LAB2\bin\LAB2.dll.config
+D:\Farnoosh\T8\Net\LAB2\LAB2\bin\LAB2.dll
+D:\Farnoosh\T8\Net\LAB2\LAB2\bin\LAB2.pdb
+D:\Farnoosh\T8\Net\LAB2\LAB2\bin\ADONet.BLL.dll
+D:\Farnoosh\T8\Net\LAB2\LAB2\bin\ADONet.Entities.dll
+D:\Farnoosh\T8\Net\LAB2\LAB2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Farnoosh\T8\Net\LAB2\LAB2\bin\ADONet.BLL.pdb
+D:\Farnoosh\T8\Net\LAB2\LAB2\bin\ADONet.Entities.pdb
+D:\Farnoosh\T8\Net\LAB2\LAB2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Farnoosh\T8\Net\LAB2\LAB2\obj\Debug\LAB2.UIL.csprojResolveAssemblyReference.cache
+D:\Farnoosh\T8\Net\LAB2\LAB2\obj\Debug\LAB2.UIL.csproj.CoreCompileInputs.cache
+D:\Farnoosh\T8\Net\LAB2\LAB2\obj\Debug\LAB2.dll
+D:\Farnoosh\T8\Net\LAB2\LAB2\obj\Debug\LAB2.pdb
+D:\Farnoosh\T8\Net\LAB2\LAB2\bin\ADONet.DAL.dll
+D:\Farnoosh\T8\Net\LAB2\LAB2\bin\ADONet.DAL.pdb

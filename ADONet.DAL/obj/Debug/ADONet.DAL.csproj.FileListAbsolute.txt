@@ -1,0 +1,8 @@
+D:\Farnoosh\T8\Net\LAB2\ADONet.DAL\bin\Debug\ADONet.DAL.dll
+D:\Farnoosh\T8\Net\LAB2\ADONet.DAL\bin\Debug\ADONet.DAL.pdb
+D:\Farnoosh\T8\Net\LAB2\ADONet.DAL\bin\Debug\ADONet.Entities.dll
+D:\Farnoosh\T8\Net\LAB2\ADONet.DAL\bin\Debug\ADONet.Entities.pdb
+D:\Farnoosh\T8\Net\LAB2\ADONet.DAL\obj\Debug\ADONet.DAL.csprojResolveAssemblyReference.cache
+D:\Farnoosh\T8\Net\LAB2\ADONet.DAL\obj\Debug\ADONet.DAL.csproj.CoreCompileInputs.cache
+D:\Farnoosh\T8\Net\LAB2\ADONet.DAL\obj\Debug\ADONet.DAL.dll
+D:\Farnoosh\T8\Net\LAB2\ADONet.DAL\obj\Debug\ADONet.DAL.pdb

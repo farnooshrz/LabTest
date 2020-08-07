@@ -1,0 +1,10 @@
+D:\Farnoosh\T8\Net\LAB2\ADONet.BLL\bin\Debug\ADONet.BLL.dll
+D:\Farnoosh\T8\Net\LAB2\ADONet.BLL\bin\Debug\ADONet.BLL.pdb
+D:\Farnoosh\T8\Net\LAB2\ADONet.BLL\bin\Debug\ADONet.DAL.dll
+D:\Farnoosh\T8\Net\LAB2\ADONet.BLL\bin\Debug\ADONet.Entities.dll
+D:\Farnoosh\T8\Net\LAB2\ADONet.BLL\bin\Debug\ADONet.DAL.pdb
+D:\Farnoosh\T8\Net\LAB2\ADONet.BLL\bin\Debug\ADONet.Entities.pdb
+D:\Farnoosh\T8\Net\LAB2\ADONet.BLL\obj\Debug\ADONet.BLL.csprojResolveAssemblyReference.cache
+D:\Farnoosh\T8\Net\LAB2\ADONet.BLL\obj\Debug\ADONet.BLL.csproj.CoreCompileInputs.cache
+D:\Farnoosh\T8\Net\LAB2\ADONet.BLL\obj\Debug\ADONet.BLL.dll
+D:\Farnoosh\T8\Net\LAB2\ADONet.BLL\obj\Debug\ADONet.BLL.pdb

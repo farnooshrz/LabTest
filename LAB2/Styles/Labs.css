@@ -1,0 +1,60 @@
+﻿
+
+
+
+.Titls {
+    font-family: iransansr;
+    direction: rtl;
+    text-align: justify;
+    list-style-type: none;
+    box-sizing: border-box;
+    background-color: transparent;
+    position: relative;
+    padding-right: 15px;
+    padding-left: 15px;
+    float: right !important;
+    font-weight: bold;
+    color: #c50010;
+    cursor: pointer;
+    text-decoration: none;
+    height: 30px;
+    padding-top: 5px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom: 1px inset #e75460;
+    margin-bottom: 15px;
+    font-size: 11px;
+}
+
+li {
+    color: #333;
+    direction: rtl;
+    list-style-type: none;
+    box-sizing: border-box;
+    margin-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 12px;
+}
+
+.allbtn {
+    direction: rtl;
+    box-sizing: border-box;
+    background-color: transparent;
+    color: #337ab7;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    width: 16.66666667%;
+    float: left;
+    font-size: x-small;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-top: 5px;
+    border: 1px solid #abc;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+}
